@@ -1,0 +1,35 @@
+{
+    "items" : [
+
+        {
+            "name": "Half-A-Car",
+            "price": "5"
+        },
+
+        {
+            "name": "Pokeball",
+            "price": "6"
+        },
+
+        {
+            "name": "Guitar",
+            "price": "3"
+        },
+
+        {
+            "name": "Baby Fox",
+            "price": "8"
+        },
+
+        {
+            "name": "Naruto",
+            "price": "7"
+        },
+
+        {
+            "name": "MrBeast",
+            "price": "69696969"
+        }
+    ]
+
+}
